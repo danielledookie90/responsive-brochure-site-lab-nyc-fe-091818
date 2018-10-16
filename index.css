@@ -1,5 +1,6 @@
 html {
   background-image: url(https://i.pinimg.com/originals/00/57/52/005752bfd94fbee98cc42dbacc8e29f5.jpg); no-repeat center center fixed;
+  color: white;
 }
 
  body,html {
@@ -12,7 +13,6 @@ width: 100vw;
 text-align: center;
 background-color: #26734d;
 opacity: 0.7;
-font color: red;
 margin: 15px 50px;
 }
 
