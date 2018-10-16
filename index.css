@@ -23,10 +23,10 @@ grid-template-columns:1fr 1fr 1fr;
 grid-template-rows: 1fr 1fr;
 }
 
-img {
+/*img {
   width: 80%;
   height: 50%;
-}
+}*/
 
 .grid-item {
   width:100%;
